@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jheinath
-- 👀 I’m interested in .NET ecosystem
+- 👀 I’m interested in the .NET ecosystem
 - 🌱 I’m currently learning Blazor WASM and Blazor Server
 - 💞️ I’m looking to collaborate on open source projects
 
